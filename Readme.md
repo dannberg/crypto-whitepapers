@@ -19,18 +19,21 @@ All credit is due to the original authors.
 ## What's included
 
 ### Bitcoin
-**Title:** Bitcoin: A Peer-to-Peer Electronic Cash System
-**Author:** Satoshi Nakamoto
-**Whitepaper Link (PDF):** https://bitcoin.org/bitcoin.pdf
-**Alternate block-based formatting for Roam Research:** https://roamresearch.com/#/app/btc/page/2dovLLR9D
+
+- **Title:** Bitcoin: A Peer-to-Peer Electronic Cash System
+- **Author:** Satoshi Nakamoto
+- **Whitepaper Link (PDF):** https://bitcoin.org/bitcoin.pdf
+- **Alternate block-based formatting for Roam Research:** https://roamresearch.com/#/app/btc/page/2dovLLR9D
 
 ### Ethereum
-**Title:** Ethereum Whitepaper
-**Author:** Vitalik Buterin
-**Whitepaper Link:** https://ethereum.org/en/whitepaper/
-**Alternate block-based formatting for Roam Research:** https://roamresearch.com/#/app/eth/page/3Lf21YFe3
+
+- **Title:** Ethereum Whitepaper
+- **Author:** Vitalik Buterin
+- **Whitepaper Link:** https://ethereum.org/en/whitepaper/
+- **Alternate block-based formatting for Roam Research:** https://roamresearch.com/#/app/eth/page/3Lf21YFe3
 
 ### Solana
-**Title:** Solana: A new architecture for a high performance blockchain
-**Author:** Anatoly Yakovenko
-**Whitepaper Link (PDF):** https://solana.com/solana-whitepaper.pdf
+
+- **Title:** Solana: A new architecture for a high performance blockchain
+- **Author:** Anatoly Yakovenko
+- **Whitepaper Link (PDF):** https://solana.com/solana-whitepaper.pdf
